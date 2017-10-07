@@ -1,6 +1,7 @@
 //$.getScript('https://duelyststats.info/scripts/collectionEnhancement.js', function(){var collectionMod = new CollectionEnhancementModule();});
 
 /*
+WRITTEN BY T2K5
  Collection enhancements module
  */
 var sort_by;
